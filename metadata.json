@@ -1,0 +1,7 @@
+{
+  "name": "Copy of APP THAY ĐỔI TRANG PHỤC VER 1.02",
+  "description": "Ứng dụng AI giúp ghép trang phục lên người mẫu với độ chính xác cao. App được thực hiện bởi NGUYỂN VĂN TẶNG",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
